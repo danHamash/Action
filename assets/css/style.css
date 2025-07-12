@@ -80,7 +80,7 @@
        line-height: 1.5; 
       }
       .social{
-        
+      text-align: center;
       display: flex;
       justify-content: center;
       align-items: center;
